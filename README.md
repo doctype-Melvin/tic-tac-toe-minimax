@@ -22,8 +22,6 @@ The joys of starting a new project!
 + Install [`Jest`](https://jestjs.io/docs/getting-started)
 + Follow the whole [`Getting Started`](https://jestjs.io/docs/getting-started) section of `Jest`(!!!)
 
-
-
 ### Sidenotes
 While setting up Webpack and Jest I ran into the following problem:
 I've created two js-files - one for my functions, one for testing. I followed
@@ -32,3 +30,7 @@ where it says `npm test`. My BASH printed this message: `SyntaxError: Cannot use
 along with Webpack, I've realised that I had an `import` declaration for my stylesheet in one of 
 my js-files. After commenting out the import, the test ran smoothly. Furthermore, I had to acknowledge,
 that I wasn't even close to finishing the [Getting Started](https://jestjs.io/docs/getting-started) guide 🤦. 
+
+### Rescources
+https://codesweetly.com/minimax-algorithm
+https://gist.github.com/Pragalbha-Patil/8f09d11cf09ad249767da0df8649f459
